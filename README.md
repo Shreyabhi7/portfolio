@@ -8,4 +8,4 @@ This is my first repository that contains the code for my personal portfolio web
 - Soft, modern color palette
 - Easy to read and update
   
-Author- Shreyabhi Dutta
+Author- Shreyabhi
